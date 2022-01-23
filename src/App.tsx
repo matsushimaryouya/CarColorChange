@@ -134,20 +134,6 @@ const App: React.FC = () => (
                   <br />
                 </Typography>
                 <Typography variant="h4" component="h4" gutterBottom>
-                  作成経緯
-                </Typography>
-                <Typography style={{ fontSize: '1.2rem' }} variant="body1" gutterBottom>
-                  元々学生の頃からUnityをさわっており、WebでもUnityを使用したものが作れないかとずっと考えておりました。
-                  <br />
-                  <br />
-                  今回、Reactを勉強していく中でUnityとの連携ができると知り、UnityとReactの良いところ同志を
-                  使って3Dで商品を紹介できるWebアプリケーションを作成しました。
-                  <br />
-                  <br />
-                  <br />
-                  <br />
-                </Typography>
-                <Typography variant="h4" component="h4" gutterBottom>
                   React
                 </Typography>
                 <Typography style={{ fontSize: '1.2rem' }} variant="body1" gutterBottom>
